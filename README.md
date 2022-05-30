@@ -2,17 +2,26 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Instalation
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `Images`
+**Image 1**
+
+<img width="1260" alt="Screen Shot 2022-05-30 at 12 34 58" src="https://user-images.githubusercontent.com/22479360/171039520-7d2f85ed-d3b8-417f-bb1a-a677abe964e3.png">
+
+**Image 2**
+
+<img width="1266" alt="Screen Shot 2022-05-30 at 12 35 21" src="https://user-images.githubusercontent.com/22479360/171039715-e34c21c2-fbbb-4451-b8f6-022ee8fff7c0.png">
 
 ### `npm test`
 
