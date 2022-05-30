@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//davquipe.github.io/Sidebar-Navigation-Menu/static/css/main.94abc817.css",
+    "main.js": "/https//davquipe.github.io/Sidebar-Navigation-Menu/static/js/main.54b35e37.js",
+    "index.html": "/https//davquipe.github.io/Sidebar-Navigation-Menu/index.html",
+    "main.94abc817.css.map": "/https//davquipe.github.io/Sidebar-Navigation-Menu/static/css/main.94abc817.css.map",
+    "main.54b35e37.js.map": "/https//davquipe.github.io/Sidebar-Navigation-Menu/static/js/main.54b35e37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94abc817.css",
+    "static/js/main.54b35e37.js"
+  ]
+}
